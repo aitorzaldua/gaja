@@ -1,4 +1,4 @@
-To use the gaja.wevhapp, please, download and install the Holochain Launcher.
+To use gaja.wevhapp, please, download and install the Holochain Launcher.
 
 Installing the Launcher:
 
