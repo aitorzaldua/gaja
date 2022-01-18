@@ -1,14 +1,17 @@
+Installing the Launcher:
 
-# gaja
-A distributed emissions trading market for a new world
+- Go to the Releases page.
+- Download the appropriate executable for your platform and execute it.
 
-## Download the Holochain launcher
+Usage:
 
-Every Happ need a launcher, you can obtain it and run:
+- Installing a hApp
+- If you already have a .webhapp Click "Install App" in the Holochain Admin window, and select your .webhapp.
+- Set a unique AppId for the app, and click install, it may take a while.
+- This AppId only needs to be unique inside your Holochain Launcher, it doesn't affect other users.
 
-1. Install the holochain dev environment (only nix-shell is required): https://developer.holochain.org/docs/install/
-2. Enable Holochain cachix with:
-
+When it's finished installation, the happ will appear in the list of active happs.
+Click Open in one of the installed apps to open the app.
 
 
 
